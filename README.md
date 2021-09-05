@@ -1,5 +1,5 @@
 # Student-Management-System-using-java-and-SQL
-COMMANDS
+
 <img width="676" alt="1  Commands" src="https://user-images.githubusercontent.com/68269960/132125647-f3111bd4-ec9f-49bf-878f-05d95bd1aeda.PNG">
 <img width="367" alt="2" src="https://user-images.githubusercontent.com/68269960/132125695-8905c16b-b18e-4feb-ae4d-60fe7da94503.PNG">
 <img width="293" alt="3" src="https://user-images.githubusercontent.com/68269960/132125699-0dc041d2-f535-4e1f-9830-afda6c6d5394.PNG">
